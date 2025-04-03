@@ -1,4 +1,5 @@
 # Ejercicios
+<<<<<<< HEAD
 ### Ejercicio 1: Manejo avanzado de ramas y resolución de conflictos
 **Objetivo**:  Practicar la creación, fusión y eliminación de ramas, así como la resolución de conflictos que puedan surgir durante la fusión.
 1. **Crear una nueva rama para una característica:**
@@ -106,3 +107,5 @@
      ```
    - Reflexiona sobre cómo el historial de tu proyecto se visualiza en este formato. ¿Qué información adicional puedes inferir?
 
+=======
+>>>>>>> cd992da (Se agrego comentarios en main.py)
