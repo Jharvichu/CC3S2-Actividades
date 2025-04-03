@@ -1,48 +1,32 @@
-A. Por qué surgió la necesidad de DevOps en el desarrollo de software?
+## PARTE 1
+#### Preguntas de Reflexión
 
-DevOps surgió para dar un enfoque laboral más interactivo, haciendo que diferentes partes de un equipo deban colaborar entre ellas para poder progresar de manera efectiva, mejorando la comunicación entre partes y haciendo que el desarrollo del software deje de estar aislado en cada equipo.
+1. ¿Por qué surgió la necesidad de DevOps en el desarrollo de software?
+DevOps surge ante la necesidad de superar los modelos tradicionales de desarrollo de software, lo cual su principal caracteristica era el trabajo aislado de los equipos de desarrollo, aseguramiento de calidad y el de operaciones, ocasionando tiempos muy largos de produccion de un software.
 
+2. Explica cómo la falta de comunicación y coordinación entre los equipos de desarrollo y operaciones en el pasado llevó a la creación de DevOps.
+La falta de comunicacion y coordinacion entre los equipos de trabajo ocasionaba tiempos muy alargados de lanzamiento de un software o la actualizacion de esta misma. Ademas ante un posible inconveniente en el software se acrecentaba la tendencia de culpar a otros equipos. DevOps soluciono esto al agrupar a los distintos equipos en un trabajo colaborativo. 
 
-B. Explica cómo la falta de comunicación y coordinación entre los equipos de desarrollo y operaciones en el pasado llevó a la creación de DevOps.
+3. Describe cómo el principio de mejora continua impacta tanto en los aspectos técnicos como en los culturales de una organización.
+El principio de mejora impacta en el aspecto cultural de una organizacion ya que al ser un trabajo colaborativo, se comparten la responsabilidad y tienen una buena comunicacion en el proyecto. En el aspecto tecnico, al ser un trabajo colaborativo, se permite aprender de los demas equipos, estos se ayudan a resolver problemas, recomendar herramientas, etc.
 
-Por culpa de la falta de comunicación se vio como varias empresas dedicadas al desarrollo de software no eran capaces de gestionar bien sus recursos, ocasionando trabajos disparejos entre áreas, haciendo que haya una demora en la entrega del software, baja calidad en ciertas partes del equipo, entre otros problemas.
+4. ¿Qué significa que DevOps no se trata solo de herramientas, individuos o procesos?
+Significa que DevOps más que una herramienta o proceso, es un cambio de paradigma en la colaboracion en el trabajo. Es un cambio cultural que fomenta la comunicacion, transparencia y responsabilidad compartida entre todos los equipos.
 
+5. Según el texto, ¿cómo contribuyen los equipos autónomos y multifuncionales a una implementación exitosa de DevOps?
+Facilitan la integracion de los equipos de desarrollo, calidad y operaciones, asi reduciendo las dependencias de los demas equipos y agilizando la entrega del software.
 
-C. Describe cómo el principio de mejora continua impacta tanto en los aspectos técnicos como en los culturales de una organización.
+## PARTE 2
+### Preguntas de Reflexión
 
-Se busca tener un mayor control en cada parte del proyecto, uno como dev puede ver el trabajo de un operador en tiempo real y viceversa, pudiendo dar recomendaciones sobre el desarrollo de esa parte del proyecto como preguntar por dudas, enriqueciendo el conocimiento sobre el proyecto por parte de todo el equipo encargado
+1. ¿Qué significa "desplazar a la izquierda" en el contexto de DevSecOps y por qué es importante?
 
+2. Explica cómo IaC mejora la consistencia y escalabilidad en la gestión de infraestructuras.
 
-D. ¿Qué significa que DevOps no se trata solo de herramientas, individuos o procesos?
+3. ¿Cuál es la diferencia entre monitoreo y observabilidad? ¿Por qué es crucial la observabilidad en sistemas complejos?
 
-Es una manera por la cual puedes trabajar de forma conjunta haciendo uso de ciertas herramientas y procesos, puede ser tomado con un enfoque cultural laboral ya que se busca cambiar el esquema tradicional, cambiar el "chip" de todo el equipo, algo que no se podría lograr si DevOps fuera solo un conjunto de herramientas.
+4. ¿Cómo puede la experiencia del desarrollador impactar el éxito de DevOps en una organización?
 
+5. Describe cómo InnerSource puede ayudar a reducir silos dentro de una organización.
 
-F. Según el texto, ¿cómo contribuyen los equipos autónomos y multifuncionales a una implementación exitosa de DevOps?
-
-Facilitan la integración de desarrollo, pruebas y operaciones, reduciendo la dependencia de otras áreas y agilizando la entrega de software​
-
-
-G. ¿Qué significa "desplazar a la izquierda" en el contexto de DevSecOps y por qué es importante?
-Consiste en mover las actividades de seguridad y pruebas de calidad a las primeras etapas del desarrollo, ayudando a detectar problemas tempranamente, reduciendo costos y tiempo.
-
-H. Explica cómo IaC mejora la consistencia y escalabilidad en la gestión de infraestructuras.
-
-Mediante el uso de una infraestructura como código podremos versionar de mejor manera nuestro proyecto, pudiendo dar una mayor consistencia en el desarrollo del software ya que tendremos herramientas de optimización, escalabilidad, entre otras haciendo uso de código.
-
-
-I. ¿Cuál es la diferencia entre monitoreo y observabilidad? ¿Por qué es crucial la observabilidad en sistemas complejos?
-
-El **monitoreo** recoge métricas predefinidas, mientras que la **observabilidad** permite entender el estado de un sistema a partir de logs, métricas y trazas. En sistemas complejos, esto ayuda a detectar y solucionar problemas rápidamente​
-
-J. ¿Cómo puede la experiencia del desarrollador impactar el éxito de DevOps en una organización?
-
-Mejora la productividad y satisfacción de los desarrolladores al proporcionar herramientas y procesos eficientes, reduciendo el tiempo dedicado a tareas repetitivas​
-
-K. Describe cómo InnerSource puede ayudar a reducir silos dentro de una organización.
-
-InnerSource adopta prácticas de código abierto dentro de la empresa, fomentando la colaboración y el intercambio de conocimiento entre equipos​.
-
-L. ¿Qué rol juega la ingeniería de plataformas en mejorar la eficiencia y la experiencia del desarrollador?
-
-Un ingeniero de plataformas busca optimizar y automatizar los entornos para el desarrollo y despliegue de un software.
+6. ¿Qué rol juega la ingeniería de plataformas en mejorar la eficiencia y la experiencia del desarrollador?
