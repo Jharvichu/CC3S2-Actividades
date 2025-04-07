@@ -3,7 +3,7 @@
 
 1. ¿Por qué surgió la necesidad de DevOps en el desarrollo de software?
 
-  DevOps surge ante la necesidad de superar los modelos tradicionales de desarrollo de software, lo cual su principal caracteristica era el trabajo aislado de los equipos de desarrollo, aseguramiento de calidad y el de operaciones, ocasionando tiempos muy largos de produccion de un software.
+- DevOps surge ante la necesidad de superar los modelos tradicionales de desarrollo de software, lo cual su principal caracteristica era el trabajo aislado de los equipos de desarrollo, aseguramiento de calidad y el de operaciones, ocasionando tiempos muy largos de produccion de un software.
 
 2. Explica cómo la falta de comunicación y coordinación entre los equipos de desarrollo y operaciones en el pasado llevó a la creación de DevOps.
 
