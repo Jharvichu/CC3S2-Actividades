@@ -157,21 +157,21 @@ Como parte del *aprendizaje práctico*, forma equipos y presenten un **"Mini-pro
 
   *Haremos uso de una nube pública, ya que nos brinda recursos (servidores, almacenamiento, etc.) ya gestionados por el proveedor externo, por lo que se nos hace más sencillo trabajar desde ese tipo de nube.*
 
-  -*El proyecto necesita:*
+  -**El proyecto necesita:**
   
   1. *Alta disponibilidad, para que los estudiantes puedan entrar en cualquier momento.*
   2. *Bajos costos, ya que al ser un proyecto pequeño no se contará con un presupuesto alto.*
   3. *Escalabilidad automática para su adaptación dependiendo de la cantidad de usuarios.*
   4. *Mantenimientos mínimos de los servidores, ya que el grupo debe enfocarse en la lógica del sistema.*
 
-  -*Opciones:*
+  -**Opciones:**
   
   1. *Heroku: Ideal para novatos y si es que se quiere publicar rápido una API o app sencilla. Muy amigable.*
   2. *Vercel: Perfecto para interfaces en React/Next.js. Es rápido y no se dificulta.*
   3. *Supabase: Se usa si se busca un backend robusto con una base de datos real. Perfecto para apps con un sistema de usuarios.*
   4. *Firebase: Perfecto para aplicaciones donde se necesita tiempo real, como chats o dashboards colaborativos. Tiene todo incluido para frontend y apps móviles.*
     
-  -*Recomendación:*
+  -**Recomendación:**
   
   1. *Frontend: Vercel + Next.js*
   2. *Backend: Supabase, funciones integradas*
@@ -194,22 +194,25 @@ Como parte del *aprendizaje práctico*, forma equipos y presenten un **"Mini-pro
 
 - **Costos (directos o indirectos) y riesgos asociados**
 
-  1. *Costos directos*
-  - *Hosting en la nube: Se podría usar **Amazon Web Services (AWS)** para alojar la aplicación. Esto incluye EC2 para servidores, RDS para bases de datos y S3 para almacenamiento de archivos.*
-  - *Videollamadas: Se puede integrar **Twilio Video**, que cobra aproximadamente $0.004 por minuto por participante. Es estable, confiable y permite integración sencilla con la web.*
-  - *Certificados SSL: Con **Let’s Encrypt** se puede obtener certificados SSL gratuitos, con posibilidad de migrar a certificados de pago si se requieren garantías adicionales.*
-  - *Autenticación: Con **Firebase Authentication**, base de datos gratuito que permite autenticación con correo, Google, entre otros.*
+  1. **Costos directos**
 
-  2. *Costos Indirectos*
-  - *Marketing y adquisición de usuarios: Habrá inversión en campañas de **Google Ads** y promoción en redes sociales como **Instagram y TikTok**.*
-  - *Soporte técnico: Se contratará personal para resolver dudas de alumnos y universitarios vía **Zendesk** o correo electrónico.*
-  - *Capacitación a mentores: Se desarrollarán materiales como videos y guías para los mentores, en conjunto con talleres virtuales via **Google Meet**. El costo será variable, dependiendo del alcance.*
-  - *Moderación de contenido: Se implementará un sistema de revisión manual y automático de perfiles y calificaciones.*
+  - **Hosting en la nube:** *Se podría usar **Amazon Web Services (AWS)** para alojar la aplicación. Esto incluye EC2 para servidores, RDS para bases de datos y S3 para almacenamiento de archivos.*
+  - **Videollamadas:** *Se puede integrar **Twilio Video**, que cobra aproximadamente $0.004 por minuto por participante. Es estable, confiable y permite integración sencilla con la web.*
+  - **Certificados SSL:** *Con **Let’s Encrypt** se puede obtener certificados SSL gratuitos, con posibilidad de migrar a certificados de pago si se requieren garantías adicionales.*
+  - **Autenticación:** *Con **Firebase Authentication**, base de datos gratuito que permite autenticación con correo, Google, entre otros.*
 
-  4. *Riesgos asociados* 
-  - *Poca adopción inicial: Si no logramos atraer a suficientes usuarios, la plataforma podría parecer vacía y desincentivar su uso. Por lo que se tratará de mitigar con campañas agresivas de difusión y posibles alianzas con diferentes colegios.*
-  - *Malas experiencias: Un universitario puede dar una mala charla o tener un comportamiento inapropiado, por eso se tiene un sistema de reporte y moderación activa, con posibilidad de expulsión inmediata.*
-  - *Sobrecarga de infraestructura: Si la plataforma recibe muchos usuarios de golpe, los servidores podrían colapsar. Para evitar esto, se podría hacer un **autoscaling** en AWS y realizar pruebas de carga periódicas.*
+  2. **Costos Indirectos**
+
+  - **Marketing y adquisición de usuarios:** *Habrá inversión en campañas de **Google Ads** y promoción en redes sociales como **Instagram y TikTok**.*
+  - **Soporte técnico:** *Se contratará personal para resolver dudas de alumnos y universitarios vía **Zendesk** o correo electrónico.*
+  - **Capacitación a mentores:** *Se desarrollarán materiales como videos y guías para los mentores, en conjunto con talleres virtuales via **Google Meet**. El costo será variable, dependiendo del alcance.*
+  - **Moderación de contenido:** *Se implementará un sistema de revisión manual y automático de perfiles y calificaciones.*
+
+  4. **Riesgos asociados**
+
+  - **Poca adopción inicial:** *Si no logramos atraer a suficientes usuarios, la plataforma podría parecer vacía y desincentivar su uso. Por lo que se tratará de mitigar con campañas agresivas de difusión y posibles alianzas con diferentes colegios.*
+  - **Malas experiencias:** *Un universitario puede dar una mala charla o tener un comportamiento inapropiado, por eso se tiene un sistema de reporte y moderación activa, con posibilidad de expulsión inmediata.*
+  - **Sobrecarga de infraestructura:** *Si la plataforma recibe muchos usuarios de golpe, los servidores podrían colapsar. Para evitar esto, se podría hacer un **autoscaling** en AWS y realizar pruebas de carga periódicas.*
 
 - **Diagrama visualizador:**
   
