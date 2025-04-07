@@ -20,13 +20,19 @@ Facilitan la integracion de los equipos de desarrollo, calidad y operaciones, as
 ### Preguntas de Reflexión
 
 1. ¿Qué significa "desplazar a la izquierda" en el contexto de DevSecOps y por qué es importante?
+Consiste en mover las actividades de seguridad y pruebas de calidad a las primeras etapas del desarrollo, ayudando a detectar problemas tempranamente, reduciendo costos y tiempo.
 
 2. Explica cómo IaC mejora la consistencia y escalabilidad en la gestión de infraestructuras.
+Mediante el uso de una infraestructura como código podremos versionar de mejor manera nuestro proyecto, pudiendo dar una mayor consistencia en el desarrollo del software ya que tendremos herramientas de optimización, escalabilidad, entre otras haciendo uso de código.
 
 3. ¿Cuál es la diferencia entre monitoreo y observabilidad? ¿Por qué es crucial la observabilidad en sistemas complejos?
+El **monitoreo** recoge métricas predefinidas, mientras que la **observabilidad** permite entender el estado de un sistema a partir de logs, métricas y trazas. En sistemas complejos, esto ayuda a detectar y solucionar problemas rápidamente​
 
 4. ¿Cómo puede la experiencia del desarrollador impactar el éxito de DevOps en una organización?
+Mejora la productividad y satisfacción de los desarrolladores al proporcionar herramientas y procesos eficientes, reduciendo el tiempo dedicado a tareas repetitivas​
 
 5. Describe cómo InnerSource puede ayudar a reducir silos dentro de una organización.
+InnerSource adopta prácticas de código abierto dentro de la empresa, fomentando la colaboración y el intercambio de conocimiento entre equipos​.
 
 6. ¿Qué rol juega la ingeniería de plataformas en mejorar la eficiencia y la experiencia del desarrollador?
+Un ingeniero de plataformas busca optimizar y automatizar los entornos para el desarrollo y despliegue de un software.
